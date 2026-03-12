@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Amrita Singh</h1>
+<h3 align="center">💻 Software Engineer | 🚀 Future Founder | 🧠 Problem Solver</h3>
 
-<!--
-**amritaxsingh24/amritaxsingh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Future+Software+Engineer;Building+My+Own+Startup;DSA+in+Progress;Focused+on+Growth&center=true&width=500&height=50">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=amrita1924&color=blue" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+-  BTech CSE Student (2nd Semester)
+-  Working with **C, Java, Python, JavaScript**
+-  Exploring **Web Development (HTML, CSS, JS)**
+-  Learning **Data Structures & Algorithms**
+-  Exploring **Data Science Basics**
+-  Participated in **Hackathons**
+-  Focused on **discipline, growth & consistency**
+
+---
+
+## 🔥 Current Focus
+- Strong foundation in **DSA**
+-  **Java & Python Development**
+-  **Frontend Development**
+-  Building real-world projects
+-  Preparing for competitive coding
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,mysql,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=amrita1924&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amrita1924&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Top Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrita1924&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Vision
+-  Master **DSA & Problem Solving**
+-  Become a **Skilled Software Engineer**
+-  Excel in **Hackathons & Coding Platforms**
+-  Build a **Startup that creates real impact**
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="#">LinkedIn</a> |
+<a href="#">LeetCode</a> |
+<a href="#">Codeforces</a> |
+<a href="#">HackerRank</a>
+</p>
+
+---
+
+## 🔥 Mindset
+> "Build something so good they can't ignore you."
+
+---
+
+## ⚡ Discipline
+> "Discipline will take you where motivation can't."
