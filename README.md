@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amrita Singh</h1>
-<h3 align="center">💻 Software Engineer | 🚀 Future Founder | 🧠 Problem Solver</h3>
+<h3 align="center">💻  Software Engineer |  🧠 Problem Solver</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+Software+Engineer;Building+My+Own+Startup;DSA+in+Progress;Focused+on+Growth&center=true&width=500&height=50">
@@ -12,22 +12,22 @@
 ---
 
 ## 🧑‍💻 About Me
--  BTech CSE Student (2nd Semester)
--  Working with **C, Java, Python, JavaScript**
--  Exploring **Web Development (HTML, CSS, JS)**
--  Learning **Data Structures & Algorithms**
--  Exploring **Data Science Basics**
--  Participated in **Hackathons**
--  Focused on **discipline, growth & consistency**
+- 🎓 BTech CSE Student (2nd Semester)
+- 💻 Working with **C, Java, Python, JavaScript**
+- 🌐 Exploring **Web Development (HTML, CSS, JS)**
+- 🧠 Learning **Data Structures & Algorithms**
+- 📊 Exploring **Data Science Basics**
+- 🚀 Participated in **Hackathons**
+- ⚡ Focused on **discipline, growth & consistency**
 
 ---
 
 ## 🔥 Current Focus
-- Strong foundation in **DSA**
--  **Java & Python Development**
--  **Frontend Development**
--  Building real-world projects
--  Preparing for competitive coding
+- 🧠 Strong foundation in **DSA**
+- ☕ **Java & Python Development**
+- 🌐 **Frontend Development**
+- 🚀 Building real-world projects
+- 🏆 Preparing for competitive coding
 
 ---
 
@@ -57,19 +57,20 @@
 ---
 
 ## 🚀 Vision
--  Master **DSA & Problem Solving**
--  Become a **Skilled Software Engineer**
--  Excel in **Hackathons & Coding Platforms**
--  Build a **Startup that creates real impact**
+- 🧠 Master **DSA & Problem Solving**
+- 💻 Become a **Skilled Software Engineer**
+- 🏆 Excel in **Hackathons & Coding Platforms**
+- 🚀 Build a **Startup that creates real impact**
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="#">LinkedIn</a> |
-<a href="#">LeetCode</a> |
+<a href="#www.linkedin.com/in/amrita-singh-65722a381">LinkedIn</a> |
+<a href="#https://leetcode.com/u/amritaxsingh24/">LeetCode</a> |
 <a href="#">Codeforces</a> |
-<a href="#">HackerRank</a>
+<a href="#https://www.hackerrank.com/amritaxsingh24">HackerRank</a>
+<a href="#https://www.geeksforgeeks.org/profile/amritaxsr431">GeeksforGeeks</a> |
 </p>
 
 ---
