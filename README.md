@@ -69,7 +69,7 @@
 <a href="#www.linkedin.com/in/amrita-singh-65722a381">LinkedIn</a> |
 <a href="#https://leetcode.com/u/amritaxsingh24/">LeetCode</a> |
 <a href="#">Codeforces</a> |
-<a href="#https://www.hackerrank.com/amritaxsingh24">HackerRank</a>
+<a href="#https://www.hackerrank.com/amritaxsingh24">HackerRank</a> |
 <a href="#https://www.geeksforgeeks.org/profile/amritaxsr431">GeeksforGeeks</a> |
 </p>
 
