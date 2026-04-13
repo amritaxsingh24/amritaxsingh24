@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Future+Software+Engineer;Building+My+Own+Startup;DSA+in+Progress;Focused+on+Growth;Consistency+is+My+Superpower" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Future+Software+Engineer;Building+My+Own+Startup;learning+DSA;Focused+on+Growth;learning+and+Growing"/>
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@
 
 ## ⚔️ Codeforces Stats
 <p align="center">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=&theme=tokyonight" />
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=amritaxsingh&theme=tokyonight" />
 </p>
 
 ---
@@ -89,23 +89,23 @@
 ## 🌐 Connect With Me
 <p align="center">
 
-<a href="https://www.linkedin.com/in/amrita-singh-65722a381">
+<a href="https://www.linkedin.com/in/amrita-singh-65722a381/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/amritaxsingh24/">
+<a href="https://leetcode.com/u/amritaxsingh24/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="#">
+<a href="https://codeforces.com/profile/amritaxsingh" target="_blank">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/amritaxsingh24">
+<a href="https://www.hackerrank.com/profile/amritaxsingh24" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/profile/amritaxsr431">
+<a href="https://www.geeksforgeeks.org/profile/amritaxsr431" target="_blank">
 <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
