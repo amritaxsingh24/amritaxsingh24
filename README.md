@@ -223,23 +223,30 @@ Currently practicing and improving my problem-solving skills through:
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritaxsingh24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&cache_seconds=86400" height="170"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritaxsingh24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&cache_seconds=86400" height="170"/>
-</p>
-
-<br>
-
 <!-- ===================== ACHIEVEMENTS ===================== -->
 
 <h2>🏅 Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amritaxsingh24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" width="90%"/>
+
+<a href="https://github.com/amritaxsingh24">
+<img src="https://img.shields.io/badge/61%2B%20Contributions-00F7FF?style=for-the-badge&logo=github&logoColor=111827"/>
+</a>
+
+<a href="https://github.com/amritaxsingh24?tab=repositories">
+<img src="https://img.shields.io/badge/4%20Public%20Repositories-111827?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+
+<a href="https://github.com/amritaxsingh24">
+<img src="https://img.shields.io/badge/Active%20Developer-00AFC6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
-<br>
+<p align="center">
+  <i>More milestones coming soon 🚀</i>
+</p>
+
 
 <!-- ===================== GOALS ===================== -->
 
