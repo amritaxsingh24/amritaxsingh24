@@ -1,21 +1,17 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:111827,100:00F7FF&text=AMRITA%20SINGH&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Problem%20Solving&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050B14,25:0D1117,55:063B4A,80:00AFC6,100:00F7FF&text=AMRITA%20SINGH&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%2FML%20%7C%20PROBLEM%20SOLVING&descAlignY=58&descSize=17&animation=twinkling&stroke=00F7FF&strokeWidth=1" width="100%"/>
 </p>
 
 <p align="center">
 
 <a href="https://github.com/amritaxsingh24">
-<img src="https://img.shields.io/badge/GitHub-amritaxsingh24-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-AMRITAXSINGH24-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/amrita-singh-65722a381/">
-<img src="https://img.shields.io/badge/LinkedIn-Amrita%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/amritaxsingh24">
-<img src="https://img.shields.io/badge/HackerRank-amritaxsingh24-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-AMRITA%20SINGH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -32,13 +28,11 @@ I'm a <b>BTech Computer Science & Engineering student</b> interested in
 </p>
 
 <p>
-I enjoy exploring new technologies, working on practical projects,
-participating in hackathons, and turning ideas into working software.
+I enjoy exploring new technologies, working on practical projects, participating in hackathons, and turning ideas into working software.
 </p>
 
 <p>
-Currently sharpening my foundations in <b>Java, Python, DSA, JavaScript,
-SQL and AI/ML</b>.
+Currently sharpening my foundations in <b>Java, Python, DSA, JavaScript, SQL and AI/ML</b>.
 </p>
 
 <br>
@@ -142,8 +136,7 @@ Currently exploring:
 <h3>🔎 Money Muling Detection</h3>
 
 <p>
-A hackathon project focused on identifying suspicious
-patterns in financial transactions.
+A hackathon project focused on identifying suspicious patterns in financial transactions.
 </p>
 
 <p>
@@ -158,8 +151,7 @@ Next.js · ForceGraph2D · Data Analysis
 <h3>💰 Expense Tracker</h3>
 
 <p>
-A web-based project designed to help users
-manage and track personal expenses.
+A web-based project designed to help users manage and track personal expenses.
 </p>
 
 <p>
@@ -221,34 +213,30 @@ Currently practicing and improving my problem-solving skills through:
 
 <br>
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== GITHUB ACTIVITY ===================== -->
 
 <h2>📊 GitHub Activity</h2>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amritaxsingh24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritaxsingh24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=amritaxsingh24&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amritaxsingh24&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Amrita%27s%20Contribution%20Graph" width="95%"/>
 </p>
 
 <br>
 
-<!-- ===================== GITHUB TROPHY ===================== -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amritaxsingh24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&cache_seconds=86400" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritaxsingh24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&cache_seconds=86400" height="170"/>
+</p>
+
+<br>
+
+<!-- ===================== ACHIEVEMENTS ===================== -->
 
 <h2>🏅 Achievements</h2>
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amritaxsingh24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" width="90%"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=amritaxsingh24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" width="90%"/>
 </p>
 
 <br>
@@ -300,16 +288,20 @@ Currently practicing and improving my problem-solving skills through:
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/amritaxsingh24">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
 <a href="https://leetcode.com/u/amritaxsingh24/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://codeforces.com/profile/amritaxsingh">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/amritaxsingh24">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/amritaxsr431">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
@@ -332,6 +324,8 @@ Currently practicing and improving my problem-solving skills through:
 
 <br>
 
+<!-- ===================== FOOTER ===================== -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,50:111827,100:0D1117"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F7FF,40:063B4A,70:0D1117,100:050B14&animation=twinkling"/>
 </p>
