@@ -1,159 +1,337 @@
-<div align="center">
+<!-- ===================== HEADER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:111827,100:00F7FF&text=AMRITA%20SINGH&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Problem%20Solving&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
 
 <a href="https://github.com/amritaxsingh24">
-  <img src="https://github.com/amritaxsingh24.png" width="140" alt="Amrita Singh"/>
+<img src="https://img.shields.io/badge/GitHub-amritaxsingh24-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-# Hi 👋, I'm Amrita Singh
+<a href="https://www.linkedin.com/in/amrita-singh-65722a381/">
+<img src="https://img.shields.io/badge/LinkedIn-Amrita%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### Computer Science Student · Software Engineering · AI/ML · Problem Solving
+<a href="https://www.hackerrank.com/profile/amritaxsingh24">
+<img src="https://img.shields.io/badge/HackerRank-amritaxsingh24-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
-<a href="https://github.com/amritaxsingh24">GitHub</a> • <a href="https://www.linkedin.com/in/amrita-singh-65722a381/">LinkedIn</a> • <a href="https://www.hackerrank.com/profile/amritaxsingh24">HackerRank</a>
+</p>
 
-</div>
+<br>
 
----
+<!-- ===================== INTRO ===================== -->
 
-## 👩‍💻 About Me
+<h2>👋 Hey, I'm Amrita</h2>
 
-I'm a **BTech Computer Science & Engineering student** with a growing interest in **software engineering, AI/ML, and problem solving**.
+<p>
+I'm a <b>BTech Computer Science & Engineering student</b> interested in
+<b>software engineering, AI/ML and problem solving</b>.
+</p>
 
-Currently focused on strengthening my programming fundamentals, developing practical projects, and exploring technologies that can solve real-world problems.
+<p>
+I enjoy exploring new technologies, working on practical projects,
+participating in hackathons, and turning ideas into working software.
+</p>
 
-* 🎓 BTech CSE Student
-* 💻 Learning **Java, Python, JavaScript & SQL**
-* 🧠 Strengthening **Data Structures & Algorithms**
-* 🤖 Exploring **AI/ML & Data Science**
-* 🌐 Learning **Web Development**
-* 🏆 Participating in **Hackathons & Coding Challenges**
-* 🚀 Interested in software engineering and technology
+<p>
+Currently sharpening my foundations in <b>Java, Python, DSA, JavaScript,
+SQL and AI/ML</b>.
+</p>
 
----
+<br>
 
-## ⚡ Currently Learning
+<!-- ===================== CURRENT FOCUS ===================== -->
 
-| Area               | Focus               |
-| ------------------ | ------------------- |
-| ☕ Java             | OOP & Development   |
-| 🐍 Python          | Programming & Data  |
-| 🧠 DSA             | Problem Solving     |
-| 🌐 JavaScript      | Web Development     |
-| 🗄️ SQL            | Databases           |
-| 🤖 AI/ML           | Exploring           |
-| 💻 Web Development | Building & Learning |
+<h2>⚡ What I'm Working On</h2>
 
----
+<table>
+<tr>
+<td width="50%">
 
-## 🛠️ Tech Stack
+### 🧠 DSA & Problem Solving
 
-### Languages
+Strengthening my fundamentals in:
 
-`C` `Java` `Python` `JavaScript`
+* Data Structures
+* Algorithms
+* Problem Solving
+* Competitive Programming
 
-### Web & Database
+</td>
 
-`HTML` `CSS` `JavaScript` `MySQL` `MongoDB`
+<td width="50%">
 
-### Tools
+### 🤖 AI / ML
 
-`Git` `GitHub` `VS Code` `Figma`
+Exploring:
 
----
+* Machine Learning
+* Data Science
+* Python
+* Practical AI applications
 
-## 🚀 Featured Work
+</td>
+</tr>
 
-### 🔎 Money Muling Detection
+<tr>
+<td width="50%">
 
-A hackathon project focused on identifying suspicious patterns in financial transactions.
+### 💻 Software Development
 
-**Tech:** `Next.js` · `ForceGraph2D` · `Data Analysis`
+Learning and working with:
 
-Built as part of **Team Teen Titans** during RIFT'26 Hackathon at PW Institute of Innovation.
+* Java
+* Python
+* JavaScript
+* SQL
 
----
+</td>
 
-### 💰 Expense Tracker
+<td width="50%">
 
-A web-based project for managing and tracking personal expenses.
+### 🌐 Web Development
 
-**Tech:** `HTML` · `CSS` · `JavaScript`
+Currently exploring:
 
----
+* HTML
+* CSS
+* JavaScript
+* Next.js
 
-## 🏆 Hackathons
+</td>
+</tr>
+</table>
 
-### RIFT'26 Hackathon — PW Institute of Innovation
+<br>
 
-Worked with **Team Teen Titans** on a **Money Muling Detection** system designed to identify suspicious financial transaction patterns and visualize relationships between transactions.
+<!-- ===================== TECH STACK ===================== -->
 
----
+<h2>🛠️ Tech Stack</h2>
 
-## 🧠 Problem Solving
+<h3>Languages</h3>
 
-Currently strengthening my problem-solving skills through:
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,js" />
+</p>
 
-* Data Structures & Algorithms
-* LeetCode
-* HackerRank
-* GeeksforGeeks
-* Codeforces
+<h3>Web & Databases</h3>
 
-### Profiles
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,nextjs,mysql,mongodb" />
+</p>
 
-* 🔗 [HackerRank](https://www.hackerrank.com/profile/amritaxsingh24)
-* 🔗 [LeetCode](https://leetcode.com/u/amritaxsingh24/)
-* 🔗 [Codeforces](https://codeforces.com/profile/amritaxsingh)
-* 🔗 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/amritaxsr431)
+<h3>Tools & Platforms</h3>
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
-## 🎯 Goals
+<br>
 
-* 🧠 Build strong DSA & problem-solving skills
-* 💻 Become a strong software engineer
-* 🤖 Develop practical AI/ML skills
-* 🏆 Perform better in hackathons and coding competitions
-* 💼 Become internship-ready
-* 🌱 Keep learning and improving consistently
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
----
+<h2>🚀 Featured Projects</h2>
 
-## 🌐 Connect With Me
+<table>
+<tr>
+<td width="50%">
 
-<div align="center">
+<h3>🔎 Money Muling Detection</h3>
 
-**GitHub**
-[github.com/amritaxsingh24](https://github.com/amritaxsingh24)
+<p>
+A hackathon project focused on identifying suspicious
+patterns in financial transactions.
+</p>
 
-**LinkedIn**
-[linkedin.com/in/amrita-singh-65722a381](https://www.linkedin.com/in/amrita-singh-65722a381/)
+<p>
+<b>Tech:</b><br>
+Next.js · ForceGraph2D · Data Analysis
+</p>
 
-**HackerRank**
-[hackerrank.com/profile/amritaxsingh24](https://www.hackerrank.com/profile/amritaxsingh24)
+</td>
 
-**LeetCode**
-[leetcode.com/u/amritaxsingh24](https://leetcode.com/u/amritaxsingh24/)
+<td width="50%">
 
-**Codeforces**
-[codeforces.com/profile/amritaxsingh](https://codeforces.com/profile/amritaxsingh)
+<h3>💰 Expense Tracker</h3>
 
-**GeeksforGeeks**
-[geeksforgeeks.org/profile/amritaxsr431](https://www.geeksforgeeks.org/profile/amritaxsr431)
+<p>
+A web-based project designed to help users
+manage and track personal expenses.
+</p>
 
-</div>
+<p>
+<b>Tech:</b><br>
+HTML · CSS · JavaScript
+</p>
 
----
+</td>
+</tr>
+</table>
 
-## 🔥 Mindset
+<br>
+
+<!-- ===================== HACKATHON ===================== -->
+
+<h2>🏆 Hackathon Experience</h2>
+
+<h3>RIFT'26 — PW Institute of Innovation</h3>
+
+<p>
+Worked with <b>Team Teen Titans</b> on a
+<b>Money Muling Detection</b> system for identifying suspicious
+financial transaction patterns.
+</p>
+
+<p>
+🔗 <b>Focus:</b> Financial Data · Transaction Networks · Visualization
+</p>
+
+<br>
+
+<!-- ===================== CODING ===================== -->
+
+<h2>🧩 Coding & Problem Solving</h2>
+
+<p>
+Currently practicing and improving my problem-solving skills through:
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/amritaxsingh24/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/amritaxsingh">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/amritaxsingh24">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/amritaxsr431">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2>📊 GitHub Activity</h2>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amritaxsingh24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritaxsingh24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=amritaxsingh24&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+
+</p>
+
+<br>
+
+<!-- ===================== GITHUB TROPHY ===================== -->
+
+<h2>🏅 Achievements</h2>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=amritaxsingh24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" width="90%"/>
+
+</p>
+
+<br>
+
+<!-- ===================== GOALS ===================== -->
+
+<h2>🎯 Where I'm Heading</h2>
+
+<table>
+<tr>
+<td>🧠</td>
+<td><b>Master DSA</b><br>Build strong problem-solving fundamentals.</td>
+</tr>
+
+<tr>
+<td>💻</td>
+<td><b>Become a strong Software Engineer</b><br>Improve development and engineering skills.</td>
+</tr>
+
+<tr>
+<td>🤖</td>
+<td><b>Grow in AI/ML</b><br>Develop practical machine learning skills.</td>
+</tr>
+
+<tr>
+<td>🏆</td>
+<td><b>Compete & Build</b><br>Participate in hackathons and technical challenges.</td>
+</tr>
+
+<tr>
+<td>💼</td>
+<td><b>Become Internship Ready</b><br>Build the skills and experience needed for strong opportunities.</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ===================== CONNECT ===================== -->
+
+<h2>🌐 Let's Connect</h2>
+
+<p align="center">
+
+<a href="https://github.com/amritaxsingh24">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amrita-singh-65722a381/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/amritaxsingh24">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/amritaxsingh24/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/amritaxsingh">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<!-- ===================== QUOTES ===================== -->
+
+<h2>🔥 Mindset</h2>
 
 <p align="center">
 <i>"Build something so good they can't ignore you."</i>
 </p>
 
----
-
-## ⚡ Discipline
+<h2>⚡ Discipline</h2>
 
 <p align="center">
 <i>"Discipline will take you where motivation can't."</i>
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,50:111827,100:0D1117"/>
 </p>
