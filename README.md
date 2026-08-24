@@ -16,19 +16,22 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/amritaxsingh24">
-    <img src="https://img.shields.io/badge/GitHub-AMRITAXSINGH24-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/amrita-singh-65722a381/">
-    <img src="https://img.shields.io/badge/LinkedIn-AMRITA%20SINGH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+<a href="https://github.com/amritaxsingh24">
+<img src="https://img.shields.io/badge/GitHub-AMRITAXSINGH24-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amrita-singh-65722a381/">
+<img src="https://img.shields.io/badge/LinkedIn-AMRITA%20SINGH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 <br>
 
 <!-- ===================================================== -->
 
-<!--                      INTRO                            -->
+<!--                       INTRO                           -->
 
 <!-- ===================================================== -->
 
@@ -40,26 +43,28 @@ I'm a <b>BTech Computer Science & Engineering student</b> interested in
 </p>
 
 <p>
-I learn best by <b>building things, solving problems and experimenting</b>
-with new technologies. I'm especially interested in turning ideas into
-working software and continuously improving my fundamentals.
+I enjoy learning by <b>building things, solving problems and experimenting</b>
+with new technologies. I'm interested in turning ideas into working software
+and continuously improving my fundamentals.
 </p>
 
 <p>
-Currently focused on <b>Java, C++, Python, JavaScript, DSA, SQL and AI/ML</b>.
+Currently focused on
+<b>Java, C++, Python, JavaScript, DSA, SQL and AI/ML</b>.
 </p>
 
 <br>
 
 <!-- ===================================================== -->
 
-<!--                    CURRENT FOCUS                       -->
+<!--                    CURRENT FOCUS                      -->
 
 <!-- ===================================================== -->
 
 <h2>⚡ What I'm Focused On</h2>
 
 <table>
+
 <tr>
 
 <td width="50%">
@@ -69,8 +74,8 @@ Currently focused on <b>Java, C++, Python, JavaScript, DSA, SQL and AI/ML</b>.
 <ul>
 <li>Data Structures</li>
 <li>Algorithms</li>
-<li>Competitive Programming</li>
 <li>Problem Solving</li>
+<li>Competitive Programming</li>
 <li>LeetCode & Codeforces</li>
 </ul>
 
@@ -127,13 +132,14 @@ Currently focused on <b>Java, C++, Python, JavaScript, DSA, SQL and AI/ML</b>.
 </td>
 
 </tr>
+
 </table>
 
 <br>
 
 <!-- ===================================================== -->
 
-<!--                    TECH STACK                         -->
+<!--                     TECH STACK                        -->
 
 <!-- ===================================================== -->
 
@@ -142,19 +148,19 @@ Currently focused on <b>Java, C++, Python, JavaScript, DSA, SQL and AI/ML</b>.
 <h3>Languages</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 </p>
 
 <h3>Web & Databases</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,nextjs,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,nextjs,mysql,mongodb" />
 </p>
 
 <h3>Tools</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 <br>
@@ -176,7 +182,7 @@ Currently focused on <b>Java, C++, Python, JavaScript, DSA, SQL and AI/ML</b>.
 <h3>🔎 Money Muling Detection</h3>
 
 <p>
-A hackathon project focused on identifying suspicious patterns
+A project focused on identifying suspicious patterns
 in financial transactions.
 </p>
 
@@ -197,8 +203,8 @@ Financial Data · Transaction Networks · Visualization
 <h3>💰 Expense Tracker</h3>
 
 <p>
-A web-based application designed to help users manage and
-track their personal expenses.
+A web-based application designed to help users manage
+and track their personal expenses.
 </p>
 
 <p>
@@ -238,21 +244,7 @@ Web Development · User Experience
 
 </td>
 
-<td width="50%">
-
-<h3>📌 More Projects Coming</h3>
-
-<p>
-I'm continuously building and experimenting with new ideas
-as I improve my development skills.
-</p>
-
-<p>
-<b>Next:</b><br>
-More practical projects · AI/ML experiments · Full-stack applications
-</p>
-
-</td>
+<td width="50%"></td>
 
 </tr>
 
@@ -262,21 +254,22 @@ More practical projects · AI/ML experiments · Full-stack applications
 
 <!-- ===================================================== -->
 
-<!--                 GITHUB STATISTICS                     -->
+<!--                  GITHUB ANALYTICS                     -->
 
 <!-- ===================================================== -->
 
-<h2>📊 GitHub</h2>
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=amritaxsingh24&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"
-    width="48%"
-  />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritaxsingh24&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"
- width="42%"
+src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=amritaxsingh24&show_icons=true"
+width="48%"
+/>
+
+<img
+src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=amritaxsingh24"
+width="42%"
 />
 
 </p>
@@ -285,37 +278,39 @@ More practical projects · AI/ML experiments · Full-stack applications
 
 <!-- ===================================================== -->
 
-<!--                   GITHUB STREAK                       -->
+<!--                    GITHUB STREAK                      -->
 
 <!-- ===================================================== -->
 
 <h2>🔥 GitHub Streak</h2>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com/?user=amritaxsingh24&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=8B949E"
-      width="70%"
-      alt="GitHub Streak"
-    />
-  </a>
+
+<img
+src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=amritaxsingh24"
+width="70%"
+alt="GitHub Streak"
+/>
+
 </p>
 
 <br>
 
 <!-- ===================================================== -->
 
-<!--                 CONTRIBUTION GRAPH                    -->
+<!--                CONTRIBUTION ACTIVITY                 -->
 
 <!-- ===================================================== -->
 
 <h2>📈 Contribution Activity</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=amritaxsingh24&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Amrita%27s%20Contribution%20Activity"
-    width="95%"
-  />
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=amritaxsingh24&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Amrita%27s%20Contribution%20Activity"
+width="95%"
+/>
+
 </p>
 
 <br>
@@ -356,7 +351,7 @@ Currently practicing and improving my problem-solving skills through:
 
 <!-- ===================================================== -->
 
-<!--                       GOALS                            -->
+<!--                       GOALS                           -->
 
 <!-- ===================================================== -->
 
@@ -365,43 +360,58 @@ Currently practicing and improving my problem-solving skills through:
 <table>
 
 <tr>
+
 <td>🧠</td>
+
 <td>
 <b>Master DSA</b><br>
 Build strong problem-solving fundamentals.
 </td>
+
 </tr>
 
 <tr>
+
 <td>💻</td>
+
 <td>
 <b>Become a Strong Software Engineer</b><br>
 Build real projects and improve my engineering skills.
 </td>
+
 </tr>
 
 <tr>
+
 <td>🤖</td>
+
 <td>
 <b>Grow in AI/ML</b><br>
 Move from learning concepts to building practical applications.
 </td>
+
 </tr>
 
 <tr>
+
 <td>🏆</td>
+
 <td>
 <b>Compete & Build</b><br>
 Participate in technical challenges and build useful projects.
 </td>
+
 </tr>
 
 <tr>
+
 <td>💼</td>
+
 <td>
 <b>Become Internship Ready</b><br>
 Build the skills and experience needed for strong opportunities.
 </td>
+
 </tr>
 
 </table>
@@ -410,7 +420,7 @@ Build the skills and experience needed for strong opportunities.
 
 <!-- ===================================================== -->
 
-<!--                    CONNECT                            -->
+<!--                     CONNECT                           -->
 
 <!-- ===================================================== -->
 
@@ -448,14 +458,14 @@ Build the skills and experience needed for strong opportunities.
 
 <!-- ===================================================== -->
 
-<!--                     MINDSET                           -->
+<!--                      MINDSET                          -->
 
 <!-- ===================================================== -->
 
 <h2>🔥 Mindset</h2>
 
 <p align="center">
-  <i>"Build something so good they can't ignore you."</i>
+<i>"Build something so good they can't ignore you."</i>
 </p>
 
 <br>
@@ -469,14 +479,14 @@ Build the skills and experience needed for strong opportunities.
 <h2>⚡ Discipline</h2>
 
 <p align="center">
-  <i>"Discipline will take you where motivation can't."</i>
+<i>"Discipline will take you where motivation can't."</i>
 </p>
 
 <br>
 
 <!-- ===================================================== -->
 
-<!--                     FOOTER                            -->
+<!--                      FOOTER                           -->
 
 <!-- ===================================================== -->
 
