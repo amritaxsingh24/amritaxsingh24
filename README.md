@@ -350,68 +350,48 @@ approaches to problems, and gradually become a better problem solver.
 
 ---
 
-<!-- ========================================================= -->
+<!-- ================= GITHUB ANALYTICS ================= -->
 
-<!--                     GITHUB ANALYTICS                     -->
-
-<!-- ========================================================= -->
-
-<h2>📊 GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=amritaxsingh24&show_icons=true&hide_border=true&theme=transparent&title_color=C4B5FD&icon_color=8B5CF6&text_color=E5E7EB"
-width="48%"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritaxsingh24&layout=compact&hide_border=true&theme=transparent&title_color=C4B5FD&text_color=E5E7EB"
-width="42%"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=amritaxsingh24&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritaxsingh24&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=C9D1D9"
+    height="180"
+  />
 </p>
 
----
+<br>
 
-<!-- ========================================================= -->
+<!-- ================= GITHUB STREAK ================= -->
 
-<!--                       STREAK                             -->
-
-<!-- ========================================================= -->
-
-<h2>🔥 GitHub Streak</h2>
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=amritaxsingh24&theme=transparent&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=E5E7EB&dates=9CA3AF"
-width="70%"
-alt="GitHub Streak"
-/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=amritaxsingh24&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&currStreakNum=7C3AED&sideLabels=C9D1D9&sideNums=7C3AED&dates=8B949E"
+    width="70%"
+  />
 </p>
 
----
+<br>
 
-<!-- ========================================================= -->
+<!-- ================= CONTRIBUTION ACTIVITY ================= -->
 
-<!--                  CONTRIBUTION GRAPH                      -->
-
-<!-- ========================================================= -->
-
-<h2>📈 Contribution Activity</h2>
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=amritaxsingh24&bg_color=090014&color=C4B5FD&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Amrita%27s%20Contribution%20Activity"
-width="95%"
-/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amritaxsingh24&bg_color=00000000&color=C9D1D9&line=7C3AED&point=7C3AED&area=true&area_color=7C3AED&hide_border=true"
+    width="95%"
+  />
 </p>
 
----
+<br>
 
 <!-- ========================================================= -->
 
