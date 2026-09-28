@@ -16,7 +16,7 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=700&lines=Building+things+that+solve+real+problems.;Learning+by+building%2C+breaking%2C+and+improving.;Turning+ideas+into+working+software.;Always+curious.+Always+learning."
     alt="Typing SVG"
   />
-</p>
+</p> 
 
 <p align="center">
   <a href="https://github.com/amritaxsingh24">
